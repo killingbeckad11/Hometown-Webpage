@@ -1,0 +1,74 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+#hero{
+  font-family: "Alfa Slab One", serif;
+  background-image: url(/images/Churchill_Manitoba_Canada_01.jpg);
+  background-size: cover;
+  background-position: center;
+  color: whitesmoke;
+  text-shadow: 0 0 10px black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 250px;
+  }
+  
+  #activities{
+    font-family: "Alfa Slab One", serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    
+  }
+  
+  #activity-title{
+    text-align: center;
+    max-width: 350px;
+    border: 1px solid red;
+    border-radius: 10px;
+    margin: 10px auto;
+    padding: 5px 20px;
+    background-color: red;
+    font-weight: bold;
+  }
+  #activity-1, #activity-2, #activity-3{
+    text-align: center;
+    max-width: 350px;
+    border: 5px solid red;
+    border-radius: 10px;
+    margin: 10px auto;
+    padding: 5px 20px;
+    background-color: rosybrown;
+    font-weight: bold;
+  }
+  #Guide-card{
+    text-align: center;
+    font-family: "Alfa Slab One", serif;
+    display: flex;
+    background-color: aqua;
+  }
+
+
+.body{
+    margin: 0;
+    text-align: center;
+}
+
+#punchbowl, #jets, #skidoo{
+    border-radius: 30px;
+}
+.img-para1, .img-para2, .img-para3{
+    margin-top: 5px;
+    padding: 0px 10px 0px 10px 
+}
