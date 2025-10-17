@@ -10,7 +10,7 @@ DARK BLUE: #1D3557
 #hero{
   font-family: "Alfa Slab One", serif;
   background-image: url(images/Churchill_Manitoba_Canada_01.jpg);
-  background-size: cover;
+  background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
   border: 1px solid lightblue;
@@ -21,8 +21,6 @@ DARK BLUE: #1D3557
   align-items: center;
   justify-content: center;
   text-align: center;
-  height: 250px;
-  width: 1000px;
   margin: auto;
   }
   
