@@ -17,11 +17,10 @@ DARK BLUE: #1D3557
   color: whitesmoke;
   text-shadow: 0 0 10px black;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   text-align: center;
-  margin: auto;
   }
   
   #activities{
